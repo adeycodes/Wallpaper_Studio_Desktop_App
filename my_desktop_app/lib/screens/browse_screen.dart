@@ -26,7 +26,8 @@ class _BrowseScreenState extends State<BrowseScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const SizedBox(height: AppConstants.paddingLarge),
+                // ✅ REDUCED TOP SPACING (was paddingLarge = 24, now 16)
+                const SizedBox(height: 16), // 👈 PUSHED UP
 
                 // Header with view toggle
                 Row(
