@@ -1,0 +1,15 @@
+pubspec.yaml:
+dependencies:
+  my_desktop_app:
+
+test/widget_test.dart:
+import 'package:flutter_test/flutter_test.dart';
+import 'package:my_desktop_app/main.dart';
+
+void main() {
+  testWidgets('MyApp has a title', (WidgetTester tester) async {
+    await tester.pumpWidget(MyApp());
+    final titleFinder = find.text('My App Title');
+    expect(titleFinder, findsOneWidget);
+  });
+}

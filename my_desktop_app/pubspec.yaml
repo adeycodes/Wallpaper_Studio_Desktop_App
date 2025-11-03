@@ -1,0 +1,34 @@
+name: wallpaper_studio
+description: A desktop wallpaper selector application
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  google_fonts: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/categories/
+    - assets/images/categories/nature/
+    - assets/images/categories/abstract/
+    - assets/images/categories/urban/
+    - assets/images/categories/space/
+    - assets/images/categories/minimalist/
+    - assets/images/categories/animals/
+    - assets/icons/

@@ -1,0 +1,7 @@
+name: my_desktop_app
+description: A Flutter application
+dependencies:
+  flutter:
+    sdk: flutter
+  my_desktop_app:
+    path: .
