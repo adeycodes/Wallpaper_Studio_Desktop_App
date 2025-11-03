@@ -4,7 +4,7 @@ A beautiful and intuitive desktop wallpaper selector application built with Flut
 
 ## 📸 Screenshots
 
-[Add your screenshots here after testing]
+![Wallpaper Studio Desktop App](wallpaper_app.png)
 
 ## ✨ Features
 
