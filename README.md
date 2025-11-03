@@ -151,7 +151,7 @@ cd build/linux/x64/release/bundle/
 ## 📦 Project Structure
 
 ```
-wallpaper_studio/
+my_desktop_app/
 ├── lib/
 │   ├── main.dart                      # App entry point
 │   ├── models/
@@ -183,8 +183,8 @@ wallpaper_studio/
 │   ├── images/
 │   └── icons/
 ├── linux/                              # Linux-specific files
-├── create_placeholder_assets.py        # Python asset generator
-├── create_placeholder_assets.sh        # Bash asset generator
+├── create_placeholder_assets.py        # Python asset generator // this is optional
+├── create_placeholder_assets.sh        # Bash asset generator // this is optional
 ├── pubspec.yaml                        # Dependencies
 └── README.md                           # This file
 ```
@@ -204,7 +204,7 @@ This application is a **pixel-perfect** implementation of the Figma design provi
   - Gray: #6B7280
   - Light: #9CA3AF
 - **Typography**:
-  - Font Family: Inter (system default fallback)
+  - Font Family: Poppins and Clash Display (system default fallback)
   - Weights: 400 (Regular), 600 (Semi-bold), 700 (Bold)
 - **Spacing**: 8px, 16px, 24px, 32px
 - **Border Radius**: 12px, 16px, 20px, 40px
