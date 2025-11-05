@@ -341,10 +341,10 @@ sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
 
 ## 🔗 Links
 
-- **GitHub Repository**: [Your GitHub Repo URL]
-- **Demo Video**: [Your Demo Video Link - Google Drive/Loom/Dropbox]
-- **Release Build**: [Direct download link to executable]
-- **Figma Design**: https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR
+- **GitHub Repository**: [Github Repo](https://github.com/adeycodes/Wallpaper_Studio_Desktop_App)
+- **Demo Video**: [Google Drive](https://drive.google.com/file/d/1BqI4SL5D8Uzw4y0ROurHgaFUIWlDJ7P8/view?usp=sharing)
+- **Release Build**: [Linux](https://drive.google.com/file/d/1lpnRzkSZfvDAo1aqL_t5Wm70qQ8HmqLs/view?usp=drive_link)
+- **Figma Design**: [Figma Design](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR)
 
 ## 📝 Submission Checklist
 
